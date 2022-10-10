@@ -1,0 +1,1 @@
+* [Competition.ipynb](https://github.com/afocoelho/titanic_competition/blob/main/Competition.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/afocoelho/titanic_competition/blob/main/Competition.ipynb)
